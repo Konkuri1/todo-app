@@ -18,3 +18,11 @@
 .addTodoInput:focus {
     outline: none;
 }
+
+.btn {
+    background-color: pink;
+}
+
+.btn:hover {
+    background-color: pink;
+}
